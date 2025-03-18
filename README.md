@@ -46,7 +46,7 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/*YOUR-USERNAME-HERE*/vue-tech-challenge-2025.git
+   git clone https://github.com/YOUR_USERNAME_HERE/vue-tech-challenge-ai-chatbot.git
    
 2. Initialize a new Vite project in the current directory with Vue:
     
