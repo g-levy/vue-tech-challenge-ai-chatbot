@@ -258,6 +258,19 @@ Once everything is set up, start the app again by running:
 npm run dev
 ```
 
+## 🎉 Congratulations on Completing the AI Chatbot Tech Challenge!  
 
-## Submission:
-TBD NEED TO FINISH
+Great job on building your AI-powered chatbot using Vue! Feel free to play around with the styling to customize the UI they way you see fit. 🚀 We hope this challenge helped you gain hands-on experience with Vue.js and AI integration.  
+
+### ✅ Next Steps:  
+1. **Mark the course as completed** in **LMS 365**.  
+2. **Ping Garrett Levy on Teams** to confirm your completion.  
+
+### 🚀 Hosting Your Chatbot  
+If you’d like to deploy your chatbot and share it, here are some recommended hosting options:  
+
+- **Vercel**
+- **Netlify**
+- **Firebase Hosting** 
+
+If you need help with deployment, feel free to reach out. **Congrats again, and happy coding!** 🎉  
